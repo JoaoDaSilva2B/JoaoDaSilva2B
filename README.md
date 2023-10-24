@@ -1,8 +1,6 @@
 # Hola, my name is Joao 👋
 ### And Im an Unreal Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-[![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])
-
 [![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
 ![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
