@@ -1,4 +1,4 @@
-# Hola, my name is Joao 🔱🌹
+# Hi, my name is Joao 🔱🌹
 ### And Im an Unreal Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
 ## Here are some of the softwares that I use:
