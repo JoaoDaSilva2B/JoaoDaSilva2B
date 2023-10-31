@@ -1,5 +1,7 @@
 # Hi, my name is Joao 🔱🌹
-### And Im an Unreal Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+### And I'm just an Unreal Student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/) trying to be the best in my area.
+### I love to create epic environments, scenes and cinematics, with Unreal Engine 5.
+
 
 ## Here are some of the softwares that I use:
 
