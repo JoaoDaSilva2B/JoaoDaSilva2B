@@ -5,7 +5,7 @@
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
-[![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
+[![Audition]()
 <br>
 [![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
 <br>
@@ -14,5 +14,6 @@
 
 ## And here there are some of the games that I usually play to in my spare time:
 
-![Counter Strike](https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1696513856) ![Assasins Creed: Odyssey](https://image.api.playstation.com/cdn/EP0001/CUSA09303_00/tzKcptCCUkiigpacybO8xWmvxPS7vIzk.png)
+<img src="https://sm.ign.com/ign_es/cover/c/counter-st/counter-strike-2_s4qe.jpg" width=30% height=30% > <img src="https://image.api.playstation.com/cdn/EP0001/CUSA09303_00/tzKcptCCUkiigpacybO8xWmvxPS7vIzk.png" width=30% height=30% > <img src="https://i.pinimg.com/1200x/63/06/f8/6306f8e16651b943254cd477ba8470ec.jpg" width=30% height=30% > <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/pasted-image-0-4-1024x576.png" width=30% height=30% >
+
 
