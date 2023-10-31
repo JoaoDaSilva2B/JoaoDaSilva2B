@@ -5,7 +5,7 @@
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
-[![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
+[![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
 [![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
 <br>
@@ -13,3 +13,5 @@
 <br>
 
 ## And here there are some of the games that I usually play to in my spare time:
+
+![Counter Strike](https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1696513856)
